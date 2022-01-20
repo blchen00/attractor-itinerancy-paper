@@ -1,4 +1,9 @@
 # attractor-itinerancy-paper
+
+Matlab codes for generating figures in the paper: 
+
+B. Chen, P. Miller, "Attractor-state itinerancy in neural circuits with synaptic depression", *Journal of Mathematical Neuroscience 10, 15 (2020)*.
+
 The repository contains .m files to generate figures in the paper. 
 
 "n1_phase_diagram.m" 
